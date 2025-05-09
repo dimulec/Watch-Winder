@@ -6,5 +6,7 @@ This project uses ESP32-S3 Reverse TFT Feather controller from Adafruit. It has 
 
 Plastic parts were printed in PLA first. But then the motor got hot and destroyed the winder. So, the latest winder was printed in carbon-filled PETG. Works fine so far. Also, the motor current has to be adjusted to the minimum at which motor will still spin. There is no need in high torque and motor stays cool.
 
+Base should be printed upside-down with support. When printing with PETG or Nylon I use PLA as support with Z-distance set to 0. This way it creates a smooth surface. And PLA is very easy to separate from PETG or Nylon.
+
 Cross-board was prototyped at home. Version 1.2 was sent for manufacturing.
 
