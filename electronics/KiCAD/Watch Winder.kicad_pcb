@@ -75,7 +75,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Out/V1.2/")
+			(outputdirectory "Out/V1.3/")
 		)
 	)
 	(net 0 "")
@@ -7542,7 +7542,7 @@
 		(layer "Edge.Cuts")
 		(uuid "bce16e22-1e47-4f00-a815-1359bea45300")
 	)
-	(gr_text "WWCROSS V1.2"
+	(gr_text "WWCROSS V1.3"
 		(at 108.585 64.77 0)
 		(layer "F.Cu")
 		(uuid "13aa1dc1-a024-404e-aa1e-a678198a673d")
